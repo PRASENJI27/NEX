@@ -1,0 +1,7 @@
+{
+  "name": "NEX WEBDEVELOPER",
+  "description": "A world-class modern web development agency specializing in global solutions, based in Kolkata.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
